@@ -375,7 +375,7 @@ function PredictionPanel({ active }: { active: Scenario }) {
       <div className="flex items-center justify-between gap-4">
         <div>
           <p className="text-sm text-slate-400">AI Prediction Panel</p>
-          <h2 className="mt-1 text-2xl font-semibold text-white">Guardian Output</h2>
+          <h2 className="mt-1 text-2xl font-semibold text-white">CellNexus Output</h2>
         </div>
         <BrainCircuit className="h-6 w-6 text-purple-200" />
       </div>
@@ -406,7 +406,7 @@ export function SimulationView() {
           <div>
             <p className="inline-flex items-center gap-2 text-sm font-semibold uppercase tracking-[0.24em] text-cyan-200">
               <Car className="h-4 w-4" />
-              Simulation Center
+              CellNexus Simulation
             </p>
             <h1 className="mt-3 max-w-4xl text-4xl font-semibold text-white sm:text-5xl lg:text-6xl">
               Trigger battery stress and watch AI predictions update live.

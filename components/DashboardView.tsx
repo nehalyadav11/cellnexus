@@ -399,7 +399,7 @@ export function DashboardView() {
               className="inline-flex items-center gap-2 text-sm font-semibold uppercase tracking-[0.24em] text-cyan-200"
             >
               <Sparkles className="h-4 w-4" />
-              CellNexus Guardian
+              CellNexus
             </motion.p>
             <motion.h1
               initial={{ opacity: 0, y: 14 }}
@@ -407,7 +407,7 @@ export function DashboardView() {
               transition={{ duration: 0.55, delay: 0.06 }}
               className="mt-3 max-w-4xl text-4xl font-semibold text-white sm:text-5xl lg:text-6xl"
             >
-              EV Battery Intelligence Dashboard
+              CellNexus Dashboard
             </motion.h1>
           </div>
           <motion.div

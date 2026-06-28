@@ -22,7 +22,7 @@ export function AppNavbar() {
           </span>
           <span className="min-w-0">
             <span className="block truncate text-base font-semibold text-white">
-              CellNexus Guardian
+              CellNexus
             </span>
             <span className="hidden text-xs text-slate-400 sm:block">
               AI Battery Safety Co-Pilot
